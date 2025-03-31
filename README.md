@@ -12,3 +12,4 @@ Eventually, this framework will:
 -	Provide a structured and reusable approach for industry-wide adoption
 -	Facilitate the development of data spaces with clear business incentives
 
+![image](https://github.com/user-attachments/assets/66a603fb-797a-4c99-b932-d0918e0fae7b)
