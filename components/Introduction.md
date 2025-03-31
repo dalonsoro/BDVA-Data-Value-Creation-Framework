@@ -1,1 +1,3 @@
 This is the introduction to the components of the BDVA DVCF
+
+This folder collects and distribute components of the DVCF following the structure defined in ...
