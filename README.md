@@ -11,3 +11,4 @@ Eventually, this framework will:
 -	Promote trust and compliance in cross-organizational data sharing
 -	Provide a structured and reusable approach for industry-wide adoption
 -	Facilitate the development of data spaces with clear business incentives
+
