@@ -1,6 +1,9 @@
 ⚠️ **Work in Progress** ⚠️  
+
 This repository is currently under development and has not yet been formally validated by BDVA BoD, Technical Board and Task Force leads  
 Contributions and feedback are welcome, but please note that the framework is subject to changes.
+
+⚠️ **Work in Progress** ⚠️  
 
 # BDVA-Data-Value-Creation-Framework
 
