@@ -1,4 +1,6 @@
 # BDVA-Data-Value-Creation-Framework
+THIS IS A DRAFT PROPOSAL, PERSONAL WORK IN PROGRESS, NOT VALIDATED AT ASSOCIATION LEVEL!
+
 ## Concept and scope
 Systematic and structured approach that encompasses all elements needed to generate value from data along its whole value chain, specially in the data sharing phase, providing a way to organize, map and provide these components. A crucial class of these components will be technical enablers to connect data lifecycle to real use cases, applications and other instruments, but also elements for governance, interoperability, trust and monetization
 
@@ -21,5 +23,30 @@ Eventually, this framework will:
 - Value for our community at large -> shared reference model that fosters alignment across different stakeholders, reduce fragmentation 
 - Value for industry -> unlock new data driven innovation, access to best practices and use cases, reuse of existing components, access to innovative solutions, promote their own solutions, …
 - Value for others (society, etc …) -> inclusive and equitable access to data-driven opportunities across different sectors, ethical, fair, and transparent data sharing that benefits citizens and consumers
+
+## Expected timeline
+### Phase 1 (2025)
+- Define the concept 
+- Validate concept, impact and value with industry and other key stakeholders 
+- Initial structure of the framework 
+- Create repository in GitHub
+- Contribution guidelines / invite early contributors 
+- Start populating the framework with content
+
+### Phase 2
+- broaden adoption
+- refinement
+- standardization
+- monitor
+- consider emerging trends
+
+### Phase 3
+- test real applicability
+- governance
+- sustainability
+- evolution
+
+
+
 
 
