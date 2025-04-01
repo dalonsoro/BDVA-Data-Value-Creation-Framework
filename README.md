@@ -1,11 +1,9 @@
+# BDVA-Data-Value-Creation-Framework
+
 ⚠️ **Work in Progress** ⚠️  
 
 This repository is currently under development and has not yet been formally validated by BDVA BoD, Technical Board and Task Force leads  
 Contributions and feedback are welcome, but please note that the framework is subject to changes.
-
-⚠️ **Work in Progress** ⚠️  
-
-# BDVA-Data-Value-Creation-Framework
 
 ## Concept and scope
 Systematic and structured approach that encompasses all elements needed to generate value from data along its whole value chain, specially in the data sharing phase, providing a way to organize, map and provide these components. A crucial class of these components will be technical enablers to connect data lifecycle to real use cases, applications and other instruments, but also elements for governance, interoperability, trust and monetization
