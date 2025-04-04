@@ -1,3 +1,5 @@
+![Logo](images/BigDataValueAssociation_logo_CMYK.jpg)
+
 # BDVA-Data-Value-Creation-Framework
 
 ⚠️ **Work in Progress** ⚠️  
