@@ -18,7 +18,7 @@ Eventually, this framework will:
 -	Provide a structured and reusable approach for industry-wide adoption
 -	Facilitate the development of data spaces with clear business incentives
 
-![image](https://github.com/user-attachments/assets/3d26d121-19b8-492c-88ad-76cdd6055266)
+![Framework Structure](images/BDVA Value creation framework.png)
 
 ## Value proposition
 - Value for BDVA -> Establishes BDVA as a key player in shaping data-driven innovation, governance, and interoperability
