@@ -14,7 +14,7 @@ Eventually, this framework will:
 -	Provide a structured and reusable approach for industry-wide adoption
 -	Facilitate the development of data spaces with clear business incentives
 
-## Elements of the framework
+## Composition of the framework
 
 The framework aims to incorporate a range of elements, from guidelines, recommendations, and best practices—synthesized from discussions with our members, projects, and experts—to specific components developed by them. These elements will be systematically mapped across the different layers and sections of the framework.
 
@@ -22,6 +22,11 @@ The framework will curate, synthesize, and organize insights from members and ke
 
 ## Structure of the framework
 ![Framework Structure](images/BDVA%20Value%20creation%20framework.png)
+
+### Technical elements
+### Services and applications
+### Business and sectors
+### Use cases and value generation
 
 ## Value proposition
 - Value for BDVA -> Establishes BDVA as a key player in shaping data-driven innovation, governance, and interoperability
