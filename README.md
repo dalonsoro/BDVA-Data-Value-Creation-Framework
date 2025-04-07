@@ -23,7 +23,7 @@ The framework aims to incorporate a range of elements, from guidelines, recommen
 The framework will curate, synthesize, and organize insights from members and key initiatives
 
 ## Structure of the framework
-<img src="images/BDVA%20Value%20creation%20framework.png" alt="Description" width="1200"/>
+<img src="images/BDVA%20Value%20creation%20framework.png" alt="Description" width="2500"/>
 
 ### Technical elements
 ### Services and applications
