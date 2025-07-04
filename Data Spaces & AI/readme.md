@@ -31,6 +31,14 @@ Finally, value creation services can also include AI driven services or services
 All these services must be compliant with AI Act and other regulations, therefore a clear link between this building block and the one on "Regulatory Compliance"
 
 ## New proposed taxonomy of Value Creation Services 
-The proposed taxonomy of DSSC Value Creation Services captures the previos aspects, with small changes and keeping the same categories as in previous versions:
+Taking all the above into account, we propose a new taxonomy of DSSC Value Creation Services, that captures the previos aspects, keeping the same categories as in previous version (blueprint v2.0) and  with just some small changes and refinements:
+
+- A new subcategory "Enhancement of other technical building blocks" is added under "Core Services", to accomodate those services (AI driven or not), that support other technical buidling blocks
+- Some new subcategories are included under "Data Handling Services", specially aimed to prepare data for AI
+- We have reorganized the subcategories to cluster services powered by, or supporting, AI
+- We have used three labels to tag:
+  - These categories that can be powered by AI
+  - These categories that prepare data for AI
+  - These categories that are AI driven or supporting AI applications / use cases
 
 <img src="../images/Value Creation Services - v3.0 (AI).png" alt="Description" width="2000"/>
