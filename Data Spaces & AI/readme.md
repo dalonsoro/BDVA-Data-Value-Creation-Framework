@@ -27,7 +27,7 @@ This  offering can also includes services specifically aimed to prepare data for
 - Outliers detection
 - Features enginering
 
-Finally, value creation services can also include AI driven services or services specifically conceived to serve AI applications and AI driven use cases, hence the link with the use case development building block. 
+Finally, value creation services can also include AI driven services or services specifically conceived to serve AI applications and AI driven use cases, hence the link with the "Use Case Development" building block. 
 All these services must be compliant with AI Act and other regulations, therefore a clear link between this building block and the one on "Regulatory Compliance"
 
 ## New proposed taxonomy of Value Creation Services 
