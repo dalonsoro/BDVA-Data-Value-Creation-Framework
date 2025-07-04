@@ -9,7 +9,7 @@ The incorporation of AI in data spaces is a multifacet exercise that should cove
 - Be aware of the regulatory compliance of these AI driven capabilities, specially in view of AI Act
 - Experimentation and sandboxing aroind AI in the data space
 
-## AI in DSSC blueprint
+## AI into DSSC blueprint
 As a firts approach, most of these aspects can be centralized in the services offering of the data space (the so called value creation services), as we propose in the following figure, when we use the Data Spaces Support Centre buiding blocks structure (https://dssc.eu/space/BVE2/1071252426/Building+Block+Overview) as the reference:
 
 <img src="../images/AI in DSSC BBs.png" alt="Description" width="2000"/>
