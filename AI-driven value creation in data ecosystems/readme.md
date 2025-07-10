@@ -2,10 +2,10 @@
 
 The incorporation of AI in data spaces is a multifacet exercise that should cover, at least, the following dimensions:
 
-- AI to reinforce the performance and effectiveness of some technical capabilities around data interoperability, trust, metadata description, publishing and discovery (AI for Data)
-- Refine or complement technical and non-technical capabilities in the data space, to meet specific AI-related requirements (Data for AI)
+- AI as a way to reinforce the performance and effectiveness of some technical capabilities around data interoperability, trust, metadata description, publishing, discovery and others. This dimension addresses the so called "AI for Data"
+- Refine or complement technical and non-technical capabilities in the data space, for them to meet specific AI-related requirements. This dimension addressed the so called paradigm AI-ready data. 
 - Identify specific AI driven value creation services
-- Accomoddate AI driven use cases
+- Connecting with the previous point, accomoddate AI driven use cases
 - Be aware of the regulatory compliance of these AI driven capabilities, specially in view of AI Act
 - Experimentation and sandboxing aroind AI in the data space
 
