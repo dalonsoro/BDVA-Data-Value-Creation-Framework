@@ -47,8 +47,9 @@ Taking all the above into account, we propose a new taxonomy of DSSC Value Creat
 In the previous sections, we have explained:
 - How AI capabilities can be centralized and accomodated as part of the services offering of the data space, in connection with other technical and non-technical building blocks
 - How these capabilities can be integrated in the taxonomy of these services, taking the DSSC Value Creation Services taxonmy, as defined in its corresponding building block of blueprint v2.0, as a reference
+
 Taking all this into account, and by clustering those services incorporating or providing AI capabilities, we can define a layer in the data space that connects with AI tools and applications, as it is shown in the figure below:
 <img src="../images/DS-AI_layer.png" alt="Description" width="2000"/>
 
-By incporporating functionalities from the data space to ensure compliance of the components of this layer to AI regulation (mostly AI Act), this layer will act as interface between Data Spaces and AI tools and applications, enabling a flow in both directions, as showed in the picture below:
+By incorporating functionalities from the data space to ensure compliance of the components of this layer to AI regulation (mostly AI Act), this layer will act as interface between Data Spaces and AI tools and applications, enabling a flow in both directions, as showed in the picture below:
 <img src="../images/AI-DS_flow.png" alt="Description" width="2000"/>
