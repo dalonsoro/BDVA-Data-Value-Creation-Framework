@@ -42,3 +42,6 @@ Taking all the above into account, we propose a new taxonomy of DSSC Value Creat
   - What categories are AI driven or support AI applications / use cases
 
 <img src="../images/Value Creation Services - v3.0 (AI).png" alt="Description" width="2000"/>
+
+## Interface layer between Data Spaces and Artificial Intelligence (applications and services)
+
