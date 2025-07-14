@@ -51,3 +51,7 @@ In the previous sections, we have explained:
 Taking all this into account, and by clustering those services that incorporate or provide AI capabilities, we can define a layer in the data space that connects with AI tools and applications, as it is shown in the figure below:
 
 <img src="../images/DS-AI_layer.png" alt="Description" width="2000"/>
+
+By incorporating functionalities from the data space to ensure compliance of the components of this layer to AI regulation (mostly AI Act), this layer will act as interface between Data Spaces and AI tools and applications, enabling a flow in both directions, as showed in the picture below:
+
+<img src="../images/AI-DS_flow.png" alt="Description" width="2000"/>
